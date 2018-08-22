@@ -21,7 +21,7 @@ public class ConexionBBDD {
     private static String db;
     private static String user;
     private static String pass;
-
+    jsjsjsjsjsjsksl
     public ConexionBBDD(String server, int port, String db, String user, String pass) {
         this.server = server;
         this.port = port;
